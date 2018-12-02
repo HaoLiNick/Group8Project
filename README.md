@@ -1,3 +1,4 @@
+
 # 2048 Final Project_Group:eight:  
 ## Who are We :couple::two_men_holding_hands:
 ---
@@ -19,7 +20,8 @@ Type a/d/w/s as :arrow_left::arrow_right::arrow_up::arrow_down: and enter in the
 
 ## Explanation :memo:
 <br> 
-1. `from random import * ` When you `from random import *`, all the definitions from random become part of the     current name space. This means you don't have to prefix anything with random. The team only need this         package to finish the project.
+
+1. `from random import *` When you `from random import *`, all the definitions from random become part of the     current name space. This means you don't have to prefix anything with random. The team only need this         package to finish the project.
 
 2. an `init_matrix()` method that will initialize a 4*4 Matrix.
 
